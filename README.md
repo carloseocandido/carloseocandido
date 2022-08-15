@@ -2,7 +2,6 @@
 
 ## What's up guys? 👋
 ### I'm Carlos! 
-#### I'm 24 years old and I like to learn about new technologies 
 ### About me
 
  - I'm a technology student :man_technologist:
