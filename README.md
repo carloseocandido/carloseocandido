@@ -11,7 +11,11 @@
  - I like to play games :video_game:
 
  
-<div align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloseocandido&show_icons=true&locale=en&layout=compact&theme=dark" alt="carloseocandido" /></div>
+<div align="center">
+  <a href="https://github.com/carloseocandido">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseocandido&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseocandido&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div align="left">
 <h3 align="left">Connect with me:</h3>
