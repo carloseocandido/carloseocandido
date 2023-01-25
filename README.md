@@ -9,6 +9,8 @@
  - I love Cats :cat:
  - Passionate about burger :hamburger:
  - I like to play games :video_game:
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseocandido&layout=compact&theme=dark)](https://github.com/carloseocandido/github-readme-stats)
 
 <div align="left">
 <h3 align="left">Connect with me:</h3>
