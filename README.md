@@ -19,5 +19,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carloseocandido&label=Profile%20views&color=0e75b6&style=flat" alt="carloseocandido" /> </p>
 </div>
-
-<!-- ![snake gif](https://github.com/carloseocandido/carloseocandido/blob/output/github-contribution-grid-snake.svg) -->
