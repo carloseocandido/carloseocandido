@@ -4,8 +4,6 @@
 ### I'm Carlos! 
 ### About Me  
 
-### About Me  
-
 👨‍💻 I'm a technology student and currently work as a QA.  
 🔍 I work with automated and functional testing.  
 💡 I have experience as a Delphi developer.  
