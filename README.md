@@ -2,9 +2,16 @@
 
 ## What's up guys? 👋
 ### I'm Carlos! 
-### About me
+### About Me  
 
- - I'm a technology student :man_technologist:
+### About Me  
+
+👨‍💻 I'm a technology student and currently work as a QA.  
+🔍 I work with automated and functional testing.  
+💡 I have experience as a Delphi developer.  
+🌐 I've worked with APIs using Node.js and Express, following best practices and design patterns.  
+🛠️ I use testing tools like Vitest to ensure code quality and reliability.  
+🚀 I have basic knowledge of Continuous Integration (CI) and Continuous Deployment (CD).  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseocandido&layout=compact&theme=dark)](https://github.com/carloseocandido/github-readme-stats)
 
