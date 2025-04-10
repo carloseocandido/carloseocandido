@@ -4,12 +4,12 @@
 ### I'm Carlos! 
 ### About Me  
 
-👨‍💻 I'm a technology student and currently work as a QA.  
-🔍 I work with automated and functional testing.  
-💡 I have experience as a Delphi developer.  
-🌐 I've worked with APIs using Node.js and Express, following best practices and design patterns.  
-🛠️ I use testing tools like Vitest to ensure code quality and reliability.  
-🚀 I have basic knowledge of Continuous Integration (CI) and Continuous Deployment (CD).  
+👨‍💻 I'm a technology student currently working in Backend Development using TypeScript and Node.js.
+🔍 I have experience with automated and functional testing.
+💡 Previously worked as a Delphi developer.
+🌐 I build and consume APIs using Node.js with Express and Knex, following best practices and design patterns.
+🛠️ I use testing tools like Vitest to ensure code quality and reliability.
+🚀 I have basic knowledge of Continuous Integration (CI) and Continuous Deployment (CD).
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseocandido&layout=compact&theme=dark)](https://github.com/carloseocandido/github-readme-stats)
 
