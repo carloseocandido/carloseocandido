@@ -9,7 +9,7 @@
 🔍 I have experience with **automated** and **functional testing**.  
 💡 Previously worked as a **Delphi developer**.  
 🌐 I build and consume APIs using **Node.js**, **Express**, and **Knex**, following best practices and design patterns.  
-🛠️ I use testing tools like **Vitest** to ensure code quality and reliability.  
+🛠️ I use testing tools like **Jest** to ensure code quality and reliability.  
 🚀 I have basic knowledge of **Continuous Integration (CI)** and **Continuous Deployment (CD)**.
 
 ---
