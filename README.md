@@ -14,7 +14,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseocandido&layout=compact&theme=dark)](https://github.com/carloseocandido/github-readme-stats)
+<!-- ![Carlos Stats](https://github-readme-stats.vercel.app/api?username=carloseocandido&theme=dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ---
 
