@@ -52,6 +52,30 @@ I'm a backend developer focused on building **scalable, reliable, and maintainab
 
 ---
 
+## 🛠️ Personal Project (In Development)
+
+> 🚧 *In development — built for learning and portfolio purposes.*
+
+A **real-time multiplayer experience** built from the ground up with a strong focus on architecture and code quality.
+
+### Highlights
+- 🏗️ **Monorepo** structure with shared packages across backend and mobile
+- ⚡ **Real-time communication** via WebSockets
+- 🧱 **Clean Architecture** + **DDD** applied throughout the codebase
+- 🧪 Built with **automated testing** from the start
+- 📱 Mobile client with **React Native**
+
+### Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logoColor=black)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
